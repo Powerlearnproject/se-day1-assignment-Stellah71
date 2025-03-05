@@ -5,25 +5,27 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-software engineering is a branch of computer science used for developing, testing and maintaining software.
-reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
-efficiency - it helps to optimize developer workflow while maintaining high quality standards.
- scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
- security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
+Answer
+Software engineering is a branch of computer science used for developing, testing and maintaining software.
+Software emgineering is important as it offers;
+i) Reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
+ii) Efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+iii) Scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+ iv) Security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-mastering complexity
-Mastering process
-Mastering machine
-
+1. mastering complexity
+2. Mastering process
+3. Mastering machine
 
 List and briefly explain the phases of the Software Development Life Cycle.
+Answer
+This includes;
 planning - identify the software requirement or purpose and scope.
- requirement analysis - identify the final user specification. 
+requirement analysis - identify the final user specification. 
 design - building the framework. 
 coding - converting software design into tangible code.
- testing - examine the software for any bugs and glitches
-
+testing - examine the software for any bugs and glitches
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
